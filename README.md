@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently open to work
 
-- 🌱 I’m currently learning **Java and Python**
-
 - 📫 How to reach me **marcoskaiser02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
