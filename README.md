@@ -17,10 +17,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcoskaiser&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="marcoskaiser" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcoskaiser&show_icons=true&locale=en&theme=github_dark" alt="marcoskaiser" /></p>
-
-   
   
 
